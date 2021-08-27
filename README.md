@@ -9,4 +9,4 @@ Tha tabMinder includes functions to create, alter, click and destroy tabs, as we
 
 Preview link:
 
-https://repository-images.githubusercontent.com/400363742/d10b8da0-4fa6-4987-ac58-24b3ea66f307
+https://repository-images.githubusercontent.com/400363742/1b53a11f-c757-41b7-a6ca-ee5d7610e079
