@@ -7,4 +7,6 @@ everyMind can load any number of "mindsets," and each mindset has a set of tabs 
 
 Tha tabMinder includes functions to create, alter, click and destroy tabs, as well as functions to easly swap out tab pane content without having to remember element ids.
 
+Preview link:
 
+https://repository-images.githubusercontent.com/400363742/d10b8da0-4fa6-4987-ac58-24b3ea66f307
